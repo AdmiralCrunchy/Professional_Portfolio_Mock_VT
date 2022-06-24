@@ -1,0 +1,138 @@
+:root{
+    --primary: #13293d;
+    --background: linear-gradient(rgb(8, 56, 75), rgb(1,1,1));
+    --accent: #fff;
+}
+
+body{
+    background: var(--background);
+    color: var(--accent);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.25%;
+    background-color: var(--primary);
+    color: var(--accent);
+  }
+
+header{
+    font-size: 200%;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+}
+nav a {
+    color: bisque;
+    font-weight: bold;
+    text-decoration: none;
+}  
+
+nav a:hover{
+    background-color: var(--accent);
+    color: bisque;
+    opacity: 50%;
+}
+
+
+#work{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10%;
+    justify-content: space-around;
+
+}
+
+.cardDIFF{
+    flex-grow: 3;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    overflow: hidden;
+    min-width: 50px;
+    min-height: 30px;
+    max-width: 100%;
+    max-height: 600px;
+
+}
+
+.cardDIFF img{
+    width:100%;
+    height: 100%;
+    min-width: 350px;
+
+}
+
+.card{
+    flex-grow: 1;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    overflow: hidden;
+    min-width: 50px;
+    max-width: 50%;
+    max-height: 450px;
+    padding: 5px;
+
+}
+
+.card header{
+    padding: 20px;
+    background: var(--background);
+    position: absolute;   
+
+}
+
+.card a{
+    color: var(--accent);
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.card img{
+    width:100%;
+    height: 100%;
+    min-width: 350px;
+
+}
+
+#aboutME p{
+    padding: 5px;
+    margin: 0% 10%  0% 10%;
+}
+section p{
+    margin: 10px;
+}
+
+#resume {
+    text-align: center;
+    font-size: 1.5em;
+    margin: 10px;
+    padding: 5px;
+}
+#resume h3{
+    margin: 10px;
+}
+#resume p{
+    text-align: left;
+    font-size: .75em;
+    padding: 10px;
+    margin: 10px 15%  10px 15%;
+}
+
+footer {
+    display: flex;
+    font-size: 175%;
+    justify-content: center;
+    padding: 2.5%;
+    background-color: var(--primary);
+    color: var(--accent);
+  }
