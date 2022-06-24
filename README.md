@@ -27,3 +27,4 @@ This one I was a little less confident with my performance, something about CSS 
 
 ---
 
+![Assignment2 Screenshot 01](https://user-images.githubusercontent.com/31176226/175450902-c156c34a-c4b7-4cb0-91da-5e5f321abd43.png)
