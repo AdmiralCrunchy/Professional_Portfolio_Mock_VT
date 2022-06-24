@@ -28,3 +28,6 @@ This one I was a little less confident with my performance, something about CSS 
 ---
 
 ![Assignment2 Screenshot 01](https://user-images.githubusercontent.com/31176226/175450902-c156c34a-c4b7-4cb0-91da-5e5f321abd43.png)
+
+
+![Assignment2 Screenshot 02](https://user-images.githubusercontent.com/31176226/175450971-bd8b51f6-55dd-4887-ae41-b4a359e38d83.png)
