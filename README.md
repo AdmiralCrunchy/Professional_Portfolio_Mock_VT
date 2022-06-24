@@ -9,9 +9,9 @@
 A mock Professional Portfolio made as an assignment for the UW coding boot camp assignment on 06/23/22. I hope that I can use as a reference to make a real one for future use. 
 
 
-Repository:
+Repository: https://github.com/AdmiralCrunchy/Professional_Portfolio_Mock_VT/
 
-url: 
+url: https://admiralcrunchy.github.io/Professional_Portfolio_Mock_VT/
 
 ---
 
